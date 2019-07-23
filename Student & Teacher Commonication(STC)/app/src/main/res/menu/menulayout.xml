@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/Home"
+            android:icon="@drawable/homeicon"
+            android:title="Home" />
+        <item
+
+            android:icon="@drawable/darkmode"
+            android:id="@+id/setting"
+            android:title="setting-Dark Mode"
+
+            />
+
+
+
+
+
+        <item
+            android:icon="@drawable/bubtanxicon"
+            android:id="@+id/anxid"
+            android:title="ANX"
+
+            />
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item
+                android:icon="@drawable/teacherlistmenuicon"
+
+                android:id="@+id/teacherlistID"
+                android:title="Teacher List" />
+
+            <item
+                android:id="@+id/bubtwebsiteID"
+                android:icon="@drawable/browericonmenu"
+                android:title="Bubt Webview" />
+        </menu>
+
+    </item>
+
+    <item android:title="Privacy">
+
+        <menu>
+            <item
+
+                android:icon="@drawable/logout"
+                android:id="@+id/logoutId"
+                android:title="Logout" />
+        </menu>
+
+
+    </item>
+
+
+</menu>

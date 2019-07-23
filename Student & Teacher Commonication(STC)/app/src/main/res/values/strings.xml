@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="Catagories">
+        <item>Student</item>
+        <item>Admin</item>
+        <item>Teacher</item>
+    </string-array>
+
+    <string name="Teacher1">
+        <item>Md. Mamun Hossain\n</item>
+         <item>Email : mamun.h@bubt.edu.bd\n</item>
+         <item>Phone : 01722733907\n</item>
+    </string>
+
+
+    <string-array name="studentName">
+        <item>Rasheduz Zaman Tutul-191</item>
+        <item>Bodruddza Shovo-201</item>
+        <item>Sosty Mohonta-202</item>
+        <item>Rasheduz Zaman Tutul-191</item>
+        <item>Bodruddza Shovo-201</item>
+        <item>Sasty Mohonta-202</item>
+
+
+    </string-array>
+    <string-array name="studentName2">
+
+        <item>Shahrukh Ahmed-194</item>
+        <item>Abdullah Al Mamun-184</item>
+        <item>Test-211</item>
+        <item>Shahrukh-194</item>
+        <item>Mamun-184</item>
+        <item>Test-211</item>
+
+    </string-array>
+
+</resources>
